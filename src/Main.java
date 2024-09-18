@@ -21,8 +21,8 @@ public class Main {
         double billPerPerson;
         int numPeople;
         numPeople = s.nextInt();
-        tipPerPerson = (double) totalTip / numPeople;
-        billPerPerson = (double) billAmount / numPeople;
+        tipPerPerson = totalTip / numPeople;
+        billPerPerson = (billAmount / numPeople) + tipPerPerson;
 
 
         System.out.println("-----------------------------");
