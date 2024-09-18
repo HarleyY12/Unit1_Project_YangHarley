@@ -23,10 +23,11 @@ public class Main {
         numPeople = s.nextInt();
         tipPerPerson = totalTip / numPeople;
         billPerPerson = (billAmount / numPeople) + tipPerPerson;
+        billAmount = billAmount + totalTip;
 
 
         System.out.println("-----------------------------");
-        System.out.println("The total bill is : $" + billAmount);
+        System.out.println(String.format("The total bill is : $%.2f" , billAmount));
         System.out.println(String.format("The total tip is: $%.2f " , totalTip));
         System.out.println(String.format("Each person has to tip: $%.2f " , tipPerPerson));
         System.out.println(String.format("Each person's bill is: $%.2f " , billPerPerson));

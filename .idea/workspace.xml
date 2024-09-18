@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d33e8b2c-bbde-46b1-b910-eb44f0d428fb" name="Changes" comment="This is my first draft of my project - I added multiple lines of code asking the user for inputs and provided them with the calculations&#10;I added a variable to calculate the total bill per person.">
+    <list default="true" id="d33e8b2c-bbde-46b1-b910-eb44f0d428fb" name="Changes" comment="I polished the variable billPerPerson and finalized the println statements to resemble a real reciept.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,12 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726667871443</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I polished the variable billPerPerson and finalized the println statements to resemble a real reciept.">
+      <option name="closed" value="true" />
+      <created>1726668440945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726668440945</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my first draft of my project - I added multiple lines of code asking the user for inputs and provided them with the calculations" />
     <MESSAGE value="This is my first draft of my project - I added multiple lines of code asking the user for inputs and provided them with the calculations&#10;I added a variable to calculate the total bill per person." />
-    <option name="LAST_COMMIT_MESSAGE" value="This is my first draft of my project - I added multiple lines of code asking the user for inputs and provided them with the calculations&#10;I added a variable to calculate the total bill per person." />
+    <MESSAGE value="I polished the variable billPerPerson and finalized the println statements to resemble a real reciept." />
+    <option name="LAST_COMMIT_MESSAGE" value="I polished the variable billPerPerson and finalized the println statements to resemble a real reciept." />
   </component>
 </project>
